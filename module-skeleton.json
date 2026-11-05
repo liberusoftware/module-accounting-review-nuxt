@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-review-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-review",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-review-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/accounting-review.md",
+  "presentationPlan": "projects/accounting/nuxt/accounting-review.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
